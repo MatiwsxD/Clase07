@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* edu.escuelaing.arsw.BbInteractivo
+web: java -cp target/classes:target/dependency/* edu.escuelaing.arsw.BbInteractivo.app.BBAppStarter
