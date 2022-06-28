@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/TallerClase07-1.0-SNAPSHOT.jar
+web: java -cp target/classes:target/dependency/* co.edu.escuelaing.interactiveblackboard.BBAppStarter
