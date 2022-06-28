@@ -1,0 +1,5 @@
+edu\escuelaing\arem\TallerSpring\app\components\TimedMessageBroker.class
+edu\escuelaing\arem\TallerSpring\app\endpoint\TimerEndpoint.class
+edu\escuelaing\arem\TallerSpring\app\configuration\WSConfigurator.class
+edu\escuelaing\arem\TallerSpring\app\controller\WebController.class
+edu\escuelaing\arem\TallerSpring\app\WSStartApp.class
