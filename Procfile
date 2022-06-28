@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/*  edu.escuelaing.arsw.BbInteractivo
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/TallerClase07-1.0-SNAPSHOT.jar
